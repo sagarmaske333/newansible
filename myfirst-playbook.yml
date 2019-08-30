@@ -1,4 +1,5 @@
 - name: my first playbook
   hosts: all
   become :yes
-    -tasks: normal debug message
+    - tasks: normal debug message
+        
