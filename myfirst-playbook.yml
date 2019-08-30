@@ -4,4 +4,4 @@
   tasks:
     - name: normal debug message
       debug:
-        msg
+        msg: "hello world"
